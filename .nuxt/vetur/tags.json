@@ -11,9 +11,6 @@
   "ListItem": {
     "description": "Auto imported from components/ListItem.vue"
   },
-  "MountainsList": {
-    "description": "Auto imported from components/MountainsList.vue"
-  },
   "NuxtMountains": {
     "description": "Auto imported from components/NuxtMountains.vue"
   },

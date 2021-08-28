@@ -10,7 +10,6 @@ You can directly use them in pages and other components without the need to impo
 - `<Form>` | `<form>` (components/Form.vue)
 - `<List>` | `<list>` (components/List.vue)
 - `<ListItem>` | `<list-item>` (components/ListItem.vue)
-- `<MountainsList>` | `<mountains-list>` (components/MountainsList.vue)
 - `<NuxtMountains>` | `<nuxt-mountains>` (components/NuxtMountains.vue)
 - `<Progressbar>` | `<progressbar>` (components/Progressbar.vue)
 - `<TheFooter>` | `<the-footer>` (components/TheFooter.vue)
