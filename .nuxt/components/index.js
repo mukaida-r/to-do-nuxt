@@ -1,0 +1,11 @@
+import { wrapFunctional } from './utils'
+
+export { default as FooButton } from '../../components/base/foo/Button.vue'
+export { default as Form } from '../../components/Form.vue'
+export { default as List } from '../../components/List.vue'
+export { default as ListItem } from '../../components/ListItem.vue'
+export { default as MountainsList } from '../../components/MountainsList.vue'
+export { default as NuxtMountains } from '../../components/NuxtMountains.vue'
+export { default as Progressbar } from '../../components/Progressbar.vue'
+export { default as TheFooter } from '../../components/TheFooter.vue'
+export { default as TheHeader } from '../../components/TheHeader.vue'

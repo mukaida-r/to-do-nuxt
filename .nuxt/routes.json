@@ -1,0 +1,16 @@
+[
+  {
+    "name": "default",
+    "path": "/default",
+    "component": "/Users/ryohei/to-do-nuxt/pages/default.vue",
+    "chunkName": "pages/default",
+    "_name": "_74d328dd"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/ryohei/to-do-nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_fe55c824"
+  }
+]
