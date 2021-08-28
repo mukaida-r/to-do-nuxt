@@ -1,7 +1,4 @@
 {
-  "FooButton": {
-    "description": "Auto imported from components/base/foo/Button.vue"
-  },
   "Form": {
     "description": "Auto imported from components/Form.vue"
   },
@@ -11,16 +8,7 @@
   "ListItem": {
     "description": "Auto imported from components/ListItem.vue"
   },
-  "NuxtMountains": {
-    "description": "Auto imported from components/NuxtMountains.vue"
-  },
   "Progressbar": {
     "description": "Auto imported from components/Progressbar.vue"
-  },
-  "TheFooter": {
-    "description": "Auto imported from components/TheFooter.vue"
-  },
-  "TheHeader": {
-    "description": "Auto imported from components/TheHeader.vue"
   }
 }
