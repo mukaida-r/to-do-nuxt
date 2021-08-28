@@ -13,4 +13,10 @@ vue.jsを扱った案件に参画するため、練習としてNuxtを用いて�
 * $emitの理解
 * CORSの理解
 * scriptタグ内の使い方（data()、methodsの使い方）
-* データバインディングの理解
+* データバインディングの理解 <br>
+## 参考サイト
+* [vue.js公式](https://jp.vuejs.org/index.html)
+* [Nuxt公式](https://ja.nuxtjs.org/)
+* [Express.js(node.js)からMySQLへの接続とCRUD操作](https://reffect.co.jp/node-js/express-js-connect-mysql)
+* [Homebrew](https://brew.sh/index_ja)
+* [TODOリスト](https://note.com/aliz/n/nda7438249ca8)
